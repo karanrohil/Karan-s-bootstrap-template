@@ -28,7 +28,7 @@ header nav ul li a:active {
 }
 
 .dfirst {
-  background-image: url(images/hero-bg.svg);
+  background-image: url(hero-bg.svg);
   background-size: cover;
   padding-top: 13%;
 }
