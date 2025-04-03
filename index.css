@@ -169,7 +169,7 @@ img {
 }
 
 .future ul li::before {
-  content: url(images/check_circle_20dp_000000_FILL0_wght400_GRAD0_opsz20.svg);
+  content: url(check_circle_20dp_000000_FILL0_wght400_GRAD0_opsz20.svg);
 }
 
 .workouter h2 {
